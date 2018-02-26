@@ -1,0 +1,37 @@
+HTML - HyperText Markup Language
+
+What - HTML is language that is used to create a structure for web pages,websites, and web applications. 
+			 It is also used for businesses to improve the sales and also give publicity to their businesses.
+			 
+Who: Tim Berners Lee , Robert Cailliau
+When: 1993
+
+HTML Elements - It is the building blocks of an HTML pages. The elements consists of lines that would let construct
+                the structure of your page. In other words Element is the entire root of your page.
+
+								
+HTML Versions - •	HTML 1.0 (November 1995)
+								•	HTML 2.0, HTML 3.2, HTML 4.0
+								•	HTML 4.01 (December 24, 1999)
+											•	Strict – deprecated
+											o	Transitional – still make use the deprecated
+											o	Frameset – using frames
+								•	HTML 5 (working draft) – 2014
+								• HTML 5.1 (2016)
+			
+Content Models -the data that would be placed/used in the HTML
+Void Models -Elements that do not have content
+Grouping Elements -used grouping elements dividing it to a organized structure. tags article, section, nav, header, footer, span, div
+Heading -specific format for text. tags h1,h2,h3,h4,h5
+Lists -used for organizing or arranging texts. tags ul, ol, li, dl, dt
+Tables -organizing texts inside a table. tags th, tr, td, thead, tfoot
+Links -are used to get information or structures outside the HTML file like css and java scripts
+Font Styles and Alignments -simple text formatting in HTML. tags b, i, small, u, float
+
+MATHML - Mathematical Markup Language
+SVG - Scalable Vector Graphics
+BITMAPPED - Representing Individual Pixels
+
+DOCTYPE - to determine what version of HTML is being used. It runs the full structure or elements in older versions of HTML
+					It is also used by browsers for switching the format of the HTML.
+					
