@@ -1,0 +1,27 @@
+XHTML - it is the reformulation of HTML in XML
+				it is used for defining structure of data
+				Made so that new HTML elements, attributes and 
+				also some XML based systems.
+				
+				
+Version - XHTML 1.0
+					XHTML 1.1
+					XHTML 1.2
+					XHTML 2.0
+					XHTML 5.0
+					
+Differences of HTML and XHTML
+					-elements and attributes are case sensitive
+					-all elements have beginning and end tags
+					-elements are nested properly
+					-attribute values are all quoted
+					-attributes values cannot be minimized
+					-tags should appear in pairs
+					
+
+XHTML tags
+					Document Structure - identifies the whole document structure document 
+					type, information about the file, title, and all visible content of the page
+					Content tags - formats that are used to create the structure of the page
+					Empty tags - also used for formating the structure of the page but has no end tags
+					
