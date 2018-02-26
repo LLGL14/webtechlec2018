@@ -1,0 +1,66 @@
+Internet
+-Using TCP/IP
+-Concept was made by Vinton Cerf
+
+World Wide Web
+-web is a service operates ove the Internet
+-Concept was established by Tim-Berners Lee
+
+email
+-1972
+
+HTTP(HyperText Transfer Protocol)
+-retrieve hypertext documents and resources on the WWW
+-Developed by W3C and IETF
+-runs on top of TCP/IP, using tcp 80 (443 for HTTPS)
+-HTTP resources are identified using URIs(URLs)
+-based on Client-server Architecture
+-Request-response standard protocol
+-statless communication
+
+Servers in HTTP
+-Origin servers
+-proxy servers
+-Gateways
+-Tunnels
+
+HTTP Request Message
+- (Methos) (URI) (Version)
+
+HTTP Request Methods
+- GET
+- HEAD
+- POST
+- OPTIONS
+- TRACE
+- PUT
+- DELETE
+- CONNECT
+
+HTTP SAFE METHODS
+- GET,HEAD,OPTION,TRACE
+
+HTTP IDEMIPOTENT METHODS
+- GET,HEAD,PUT,DELETE,OPTIONS,TRACE
+
+HTTP EXTENSION WEB AUTHORING AND VERSIONING (WEBDAV)
+- PROPFIND, PROPPATCH, MKCOL, COPY, MOVE, LOCK, UNLOCK
+
+HTTP MESSAGE HEADERS
+- GENERAL HEADER FIELDS
+- REQUEST HEADER FIELDS
+- RESPONSE HEADER FIELD
+- ENTITY HEADER FIELDS
+
+HTTP STATUS CODES
+- INFORMATIONAL(1XX)
+- SUCCESS(2XX)
+- REDIRECTION(3XX)
+- CLIENT ERROR(4XX)
+- SERVER ERROR(5XX)
+
+Protocol
+-way of addressing
+-set of rules to be followed
+
+
