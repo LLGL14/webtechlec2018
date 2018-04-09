@@ -1,0 +1,16 @@
+Beginning of JavaScript
+Netscape communication Corporation, the pre – owner of Netscape Communicator, they were seeking for the way to expanding web. They have developed JavaScript May to December 1995. Main purpose of expanding is ‘dynamic web’
+
+JavaScript at the time was named as ‘mocha’, pushed my Sun Microsystems due to java isn’t suit for those who mocha aimed: scripters, amateurs, designers because java isn’t made for that lightweight tasks.
+ 
+Major Design Features
+-JAVA-like syntax
+-Functions as First-Class Objects
+-PROTOTYPE-BASED OBJECT MODEL
+ 
+ECMAScript: JavaScript as a Standard. Current version is 7, it becomes more like general purposed language.
+ 
+AJAX: Asynchronous JavaScript and XML, born in the years of ECAMScript3. It wasn’t standard and just pushed by microsoft since IE5.
+
+
+REF: https://www.google.com/search?q=history+of+javascript&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=ibLKWrTsK5eB2QSgtoHoDA
